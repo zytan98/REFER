@@ -1,0 +1,8 @@
+@import '~antd/dist/antd.css';
+
+.pie {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 150px;
+}

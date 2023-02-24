@@ -1,0 +1,12 @@
+@import '~antd/dist/antd.css';
+.pay{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 219px;
+  min-height:calc(100vh - 405px);
+}
+.button{
+    margin-top: 10px;
+    margin-left: 10px;
+}

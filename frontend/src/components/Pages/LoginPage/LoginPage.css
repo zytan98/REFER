@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.login{
+    background-color: hsl(0, 1%, 74%);
+}
+
+.loginlogo{
+    margin:100px 10px 10px 10px
+}

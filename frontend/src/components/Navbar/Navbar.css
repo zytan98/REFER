@@ -1,0 +1,16 @@
+@import '~antd/dist/antd.css';
+
+.items {
+  font-weight: 700;
+}
+.avatar {
+  float: right;
+  margin: 16px 24px 16px 0;
+}
+.logo {
+  float: left;
+  width: 120px;
+  height: 30px;
+  margin: 16px 24px 16px 0;
+  background-color: hsla(0, 0%, 100%, 0.788);
+}
